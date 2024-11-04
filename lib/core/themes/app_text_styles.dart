@@ -43,6 +43,13 @@ class AppTextStyles {
     color: AppColors.textPrimary400,
   );
 
+  static const TextStyle bookcard = TextStyle(
+    fontSize: 14.0,
+    fontFamily: 'Quicksand',
+    fontWeight: FontWeight.w600,
+    color: AppColors.backgroundDark,
+  );
+
   static const TextStyle heading4 = TextStyle(
     fontSize: 14.0,
     fontFamily: 'Quicksand',
@@ -54,6 +61,13 @@ class AppTextStyles {
     fontSize: 16.0,
     fontFamily: 'Quicksand',
     fontWeight: FontWeight.w400,
+    color: AppColors.textPrimary,
+  );
+
+  static const TextStyle heading6 = TextStyle(
+    fontSize: 12.0,
+    fontFamily: 'Quicksand',
+    fontWeight: FontWeight.w500,
     color: AppColors.textPrimary,
   );
 

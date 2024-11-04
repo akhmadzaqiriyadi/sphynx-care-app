@@ -69,6 +69,7 @@ flutter:
     - lib/assets/images/ciko.png
     - lib/assets/images/meong.png
     - lib/assets/images/avatar.png
+    - lib/assets/images/baner.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
